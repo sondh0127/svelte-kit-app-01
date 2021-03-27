@@ -1,0 +1,3 @@
+.eslintrc.cjs
+svelte.config.cjs
+tailwind.config.cjs
